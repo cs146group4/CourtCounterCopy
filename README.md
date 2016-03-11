@@ -1,19 +1,19 @@
 # CourtCounterCopy
 For playing around with android studio and git.
 
-## Software Downloads:
-### Android Studio:
+### Software Downloads:
+##### Android Studio:
 http://developer.android.com/sdk/index.html
-### GitHub Desktop:
+##### GitHub Desktop:
 https://desktop.github.com/
 
-## Useful Tutorials
-###GitHub Tutorial
+### Useful Tutorials
+##### GitHub Tutorial
 https://guides.github.com/activities/hello-world/
-###Android Studio Tutorials
+##### Android Studio Tutorials
 http://developer.android.com/training/basics/firstapp/index.html
 
-## Importing to Android Studio from GitHub
+### Importing to Android Studio from GitHub
 
 For this part, I recommend _NOT_ using the import tools from within Android Studio. Doing that gave me all sorts of unexpected errors. Instead, try following these steps:
 
