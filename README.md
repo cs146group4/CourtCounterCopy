@@ -1,5 +1,12 @@
 # CourtCounterCopy
-For playing around with android studio and git.
+## What should I do with this project?
+This is a project just to get our feet wet with Git and Android Studio. First, follow the instructions under __Importing to Android Studio from GitHub__ to set up Android Studio with this repository. Then, go wild! Change some code, try to figure out how everything works.
+
+This project is meant to be broken, so don't be shy. Experiment and try out things. It doesn't matter if everything breaks. You can always try to fix it, or, if things get really rough, revert to an older version.
+
+I'll be gradually updating this readme with more information about Android Studio and how it works. I'll give some ideas later for what kind of things you can try.
+
+For now, you can take a look at the tutorial links below to familiarize yourself with how things work.
 
 ### Software Downloads:
 ##### Android Studio:
@@ -27,5 +34,3 @@ For this part, I recommend _NOT_ using the import tools from within Android Stud
   * __Push:__ This uploads all changes that you have made to the online GitHub repo. Verify that the repository has been modified online after pushing.
   * __Commit and Push:__ This option shows up in the commit menu. This allows you to do both steps at once. Most of the time this will probably be what you want.
     * However, there may be times where you wish to save your changes locally, but not push your changes yet. In this case, use Commit and Push separately.
-
-* Work in progress. Will add information what to modify from within Android Studio.
