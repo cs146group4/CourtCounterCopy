@@ -5,6 +5,13 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
 
+/**
+ * Feel free to mess with this file to your heart's content!
+ * I won't get offended if you break things.
+ * If something breaks really badly, that's what the VCS is for!
+ *
+ * Have fun!
+ */
 public class MainActivity extends AppCompatActivity {
 
     int scoreTeamA = 0;
