@@ -16,6 +16,10 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
+    /**
+     * Adds 1 to the score for Team A.
+     * @param view the view that calls this button
+     */
     public void addOneTeamA(View view)
     {
         scoreTeamA +=1;
