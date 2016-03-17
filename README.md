@@ -22,7 +22,7 @@ http://developer.android.com/training/basics/firstapp/index.html
 
 ### Importing to Android Studio from GitHub
 
-For this part, I recommend _NOT_ using the import tools from within Android Studio. Doing that gave me all sorts of unexpected errors. Instead, try following these steps:
+For this part, I recommend _NOT_ using the import tools from within Android Studio. Doing that gave me all sorts of unexpected errors. If you want to use GitHub Desktop to set up your project, follow these steps:
 
 1. Using GitHub Desktop, click on the + button at the top left and select __"Clone".__ This will allow you to download from any GitHub repo. Select the project you wish to download. (In this case, cs146group4/CourtCounterCopy)
 2. Choose the directory you want to save your project in. You can choose AndroidStudioProjects, GitHub, or whatever folder you want. Verify that the files have appeared.
@@ -34,3 +34,5 @@ For this part, I recommend _NOT_ using the import tools from within Android Stud
   * __Push:__ This uploads all changes that you have made to the online GitHub repo. Verify that the repository has been modified online after pushing.
   * __Commit and Push:__ This option shows up in the commit menu. This allows you to do both steps at once. Most of the time this will probably be what you want.
     * However, there may be times where you wish to save your changes locally, but not push your changes yet. In this case, use Commit and Push separately.
+
+_TODO: Add more information about Android Studio_
